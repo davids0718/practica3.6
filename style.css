@@ -1,0 +1,20 @@
+div.museu{
+    background-color: greenyellow;
+    text-align: center;
+}
+span.ser{font-weight: bold;}
+div.somos{background-color: orange;}
+
+span.act{
+    background-color: orange;
+}
+
+h1{
+    text-align: center;
+    background-color: burlywood;
+}
+div.su{
+    background-color: blue;
+    text-align: center;
+
+}
